@@ -1,5 +1,5 @@
 # Manifesto for Agile Software Development #
-(and [12 principles behind the Agile manifesto](#12-principles-behind-the-agile-manifesto).)
+(and [12 principles behind the Agile manifesto](#12-principles-behind-the-agile-manifesto))
 
  We are uncovering better ways of developing
  software by doing it and helping others do it.
